@@ -13,6 +13,14 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
 		<url-pattern>/login</url-pattern>
 	</servlet-mapping>
 	<servlet>
+		<servlet-name>ga</servlet-name>
+		<servlet-class>com.ds.getall</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ga</servlet-name>
+		<url-pattern>/g1</url-pattern>
+	</servlet-mapping>
+	<servlet>
 		<servlet-name>aas1</servlet-name>
 		<servlet-class>com.ds.apppends</servlet-class>
 	</servlet>
