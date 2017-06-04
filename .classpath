@@ -7,5 +7,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/my entire things in full creative/New folder (2)/jackson-all-1.9.0.jar/jackson-all-1.9.0.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
