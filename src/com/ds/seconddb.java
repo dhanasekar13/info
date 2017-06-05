@@ -25,7 +25,7 @@ private String blogd;
 
 	public seconddb(String n1,String e1,String p1,String c1)
 	{
-		this.name=n1+datef.format(d1);
+		this.name=n1+"  at the time of -"+datef.format(d1);
 		this.blogd=e1;
 		this.previousc=p1;
 		this.newcom=c1;
